@@ -23,23 +23,23 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
-  pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  name             : "Haitham Abdelhafez"
+  pronouns         : # "He/him" 
+  bio              : "I am a PhD candidate in the Department of Electrical and Computer Engineering at the University of Massachusetts Amherst. I serve on the Technical Program Committee of the ACM S³ Workshop 2025, co-located with ACM MobiCom 2025. My research interests include fog/edge/cloud computing, quantum computing, 6G mobile communication technologies, device-to-device communication, the Internet of Things, dynamic network slicing, satellite-terrestrial edge computing networks, covert communication, and AI-driven applications in wireless communication systems."
+  location         : "Massachusetts, USA"
+  employer         : "The University of Massachusetts Amherst"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "habdelhafez@umass.edu; eng.haisam2009@yahoo.com" 
 
   # Academic websites
   academia         : # URL
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : "https://scholar.google.com/citations?user=PaxDdc0AAAAJ&hl=en&oi=ao"
   inspire-hep      : # URL
   impactstory      : # URL
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0000-0002-4880-3238"
   semantic         : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : 
   researchgate     : # URL
   scopus           : # URL
 
