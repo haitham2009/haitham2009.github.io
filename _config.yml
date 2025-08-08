@@ -22,7 +22,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "Linkedin.PNG"
+  avatar           : "Linkedin.png"
   name             : "Haitham Abdelhafez"
   pronouns         : # "He/him" 
   bio              : "PhD candidate in the Department of Electrical and Computer Engineering at the University of Massachusetts Amherst"
