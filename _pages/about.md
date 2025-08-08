@@ -12,7 +12,7 @@ redirect_from:
 
 - I am currently a member of [Network Science lab](https://websites.umass.edu/blorenzo/research/) and working as a research assistant in projects funded by NSF and ARL.
 
-- My research interests include fog/edge/cloud computing, quantum computing, 6G mobile communication technologies, device-to-device communication, the Internet of Things, dynamic network slicing, satellite-terrestrial edge computing networks, covert communication, and AI-driven applications in wireless communication systems.
+- My research interests include fog/edge/cloud computing, quantum computing, quantum communication, 6G mobile communication technologies, device-to-device communication, the Internet of Things, dynamic network slicing, satellite-terrestrial edge computing networks, covert communication, and AI-driven applications in wireless communication systems.
 
 - I serve on the Technical Program Committee of the ACM S³ Workshop 2025, co-located with ACM MobiCom 2025. I am a member of the [EURASIP Academy](https://academy.eurasip.org/academy-members) from 2024 to present.
 
