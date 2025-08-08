@@ -19,7 +19,7 @@ Publications
 ======
   Refer to [Google Scholar](https://scholar.google.com/citations?user=PaxDdc0AAAAJ&hl=en&oi=ao)
   
-Talks
+Posters
 ======
 * Haitham Abdelhafez, “A Network Design Framework for Classical-to-Quantum Evolution" 2025 IEEE International Conference on Quantum Computing and Engineering (QCE), Albuquerque Convention Center in Albuquerque, New Mexico, USA, 2025.
 * Haitham Abdelhafez, “LEONS: Multi-Domain Network Slicing Configuration and Orchestration for Satellite-Terrestrial Edge Computing Networks”, 2023 UMass ECE Department Graduate Research Poster Session \& 3-Minute Thesis.
