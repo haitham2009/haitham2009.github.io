@@ -43,11 +43,10 @@ Talks
     {% include archive-single-talk-cv.html  %}
   {% endfor %}</ul>
   
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+Teaching Assistant in ECE at UMass Amherst
+-ECE 315 Signal Processing Methods at University of Massachusetts – Amherst, F’ 24’25.
+-ECE 325 Computer Networking at University of Massachusetts – Amherst, S’ 22’24’25.
+-ECE 697AA/597AA AI-based Wireless Networks Design at University of Massachusetts – Amherst, F’ 22.
   
 Service and leadership
 ======
