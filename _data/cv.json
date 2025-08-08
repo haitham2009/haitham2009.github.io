@@ -28,8 +28,8 @@
   "work": [],
   "education": [
     {
-      "institution": "GitHub University",
-      "area": "Ph.D in Electrical and Computer Engineering, University of Massachusetts Amherst",
+      "institution": "University of Massachusetts Amherst",
+      "area": "Ph.D in Electrical and Computer Engineering",
       "studyType": "",
       "startDate": "",
       "endDate": "2026",
@@ -37,17 +37,17 @@
       "courses": []
     },
     {
-      "institution": "GitHub University",
-      "area": "M.S. in Jekyll",
+      "institution": "Helwan University",
+      "area": "M.S. in Communication Engineering",
       "studyType": "",
       "startDate": "",
-      "endDate": "2014",
+      "endDate": "2016",
       "gpa": null,
       "courses": []
     },
     {
-      "institution": "GitHub University",
-      "area": "B.S. in GitHub",
+      "institution": "Helwan University",
+      "area": "B.Sc. in Electronic, Communication and Computer Engineering",
       "studyType": "",
       "startDate": "",
       "endDate": "2012",
@@ -135,13 +135,4 @@
       "description": ""
     }
   ],
-  "portfolio": [
-    {
-      "name": "Portfolio item number 1",
-      "category": "portfolio",
-      "date": "",
-      "url": "",
-      "description": "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
-    }
-  ]
 }
