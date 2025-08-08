@@ -23,21 +23,16 @@
         "username": "",
         "url": "http://orcid.org/yourorcidurl"
       },
-      {
-        "network": "GitHub",
-        "username": "academicpages",
-        "url": "https://github.com/academicpages"
-      }
     ]
   },
   "work": [],
   "education": [
     {
       "institution": "GitHub University",
-      "area": "Ph.D in Version Control Theory",
+      "area": "Ph.D in Electrical and Computer Engineering, University of Massachusetts Amherst",
       "studyType": "",
       "startDate": "",
-      "endDate": "2018",
+      "endDate": "2026",
       "gpa": null,
       "courses": []
     },
