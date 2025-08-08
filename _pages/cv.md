@@ -35,9 +35,7 @@ Work experience
 
 Publications
 ======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+  Refer to [Google Scholar](https://scholar.google.com/citations?user=PaxDdc0AAAAJ&hl=en&oi=ao)
   
 Talks
 ======
