@@ -16,5 +16,6 @@ redirect_from:
 
 - I serve on the Technical Program Committee of the [ACM S³ Workshop 2025](https://s3.witechlab.com/#), co-located with ACM MobiCom 2025. I am a member of the [EURASIP Academy](https://academy.eurasip.org/academy-members) from 2024 to present.
 
-
+## 🤝 I am open to collaborate  
+Feel free to connect!
 
