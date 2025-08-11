@@ -17,7 +17,7 @@ Education
 
 Publications
 ======
-  Please refer to my [Google Scholar profile](https://scholar.google.com/citations?user=PaxDdc0AAAAJ&hl=en&oi=ao) for a complete list of my publications.
+ * Please refer to my [Google Scholar profile](https://scholar.google.com/citations?user=PaxDdc0AAAAJ&hl=en&oi=ao) for a complete list of my publications.
   
 Posters
 ======
