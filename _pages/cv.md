@@ -12,8 +12,8 @@ redirect_from:
 Education
 ======
 * Ph.D in Electrical and Computer Engineering, University of Massachusetts Amherst, 2026
-* M.S. in Communication Engineering, Helwan University, 2016
-* B.S. in Electronics, Communication and Computer Engineering, Helwan University, 2011
+* M.S. in Communication Engineering, Helwan University
+* B.S. in Electronics, Communication, and Computer Engineering, Helwan University
 
 Publications
 ======
