@@ -48,5 +48,5 @@ Scientific Acknowledgments and Awards
 ======
 * Outstanding Teaching Assistant Award, Electrical and Computer Engineering Department, University of Massachusetts Amherst, USA 2024–2025.
 * Full tuition Graduate Research Assistantship at the University of Massachusetts, Amherst, USA, 2020-Present.
-* Full tuition Graduate Teaching Assistantship at Helwan University, Egypt, 2013-2020.
-* Honors (The Second) in B.Sc., Helwan University, Egypt, 2011.
+* Full tuition Graduate Teaching Assistantship at Helwan University, Egypt.
+* Honors (The Second) in B.Sc., Helwan University, Egypt.
