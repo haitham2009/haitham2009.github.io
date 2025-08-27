@@ -7,8 +7,8 @@ redirect_from:
   - /about.html
 ---
 
-- I am a final-year Ph.D. student in the [Department of Electrical and Computer Engineering
-](https://www.umass.edu/engineering/electrical-and-computer-engineering) at the University of Massachusetts Amherst.
+- I am a final-year Ph.D. student in the [Department of Electrical and Computer Engineering at the University of Massachusetts Amherst
+](https://www.umass.edu/engineering/electrical-and-computer-engineering).
 
 - I am currently a member of [Network Science lab](https://websites.umass.edu/blorenzo/research/) and working as a research assistant in projects funded by NSF and ARL.
 
