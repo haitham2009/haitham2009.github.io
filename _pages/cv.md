@@ -15,10 +15,12 @@ Education
 * M.S. in Communication Engineering, Helwan University
 * B.S. in Electronics, Communication, and Computer Engineering, Helwan University
 
+<!--
 Publications
 ======
  * Please refer to my [Google Scholar profile](https://scholar.google.com/citations?user=PaxDdc0AAAAJ&hl=en&oi=ao) for a complete list of my publications.
-  
+-->
+
 Posters
 ======
 * Haitham Abdelhafez, “A Network Design Framework for Classical-to-Quantum Evolution" 2025 IEEE International Conference on Quantum Computing and Engineering (QCE), Albuquerque Convention Center in Albuquerque, New Mexico, USA, 2025.
