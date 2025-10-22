@@ -10,7 +10,8 @@ redirect_from:
 - I am a final-year Ph.D. student in the [Department of Electrical and Computer Engineering at the University of Massachusetts Amherst
 ](https://www.umass.edu/engineering/electrical-and-computer-engineering).
 
-- I am currently a member of [Network Science lab](https://websites.umass.edu/blorenzo/research/) and working as a research assistant in projects funded by NSF and ARL.
+- I am currently a member of [Network Science lab](https://websites.umass.edu/blorenzo/research/) and working as a research assistant in projects funded by NSF (CNS_2008309 and CNS_2225427) and ARL FREEDOM (Covert communication and advanced sensing in contested electromagnetic environments.)
+
 
 - My research interests include 6G networks, machine learning for wireless, fog/edge/cloud computing, quantum computing, quantum communication, device-to-device communication, the Internet of Things, dynamic network slicing, integrated sensing and communication, satellite-terrestrial edge computing networks, and covert communication.
 
