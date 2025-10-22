@@ -44,7 +44,7 @@ Service and leadership
 ======
 * Technical Program Committee Member, [ACM S<sup>3</sup> Workshop 2025](https://s3.witechlab.com/#), co-located with ACM MobiCom, November 2025, Hong Kong, China.
 * Member, [EURASIP Academy](https://academy.eurasip.org/academy-members/) (2024 – Present)
-* Reviewer of IEEE/ACM Transactions on Networking, IEEE Journal on Selected Areas in Communications, IEEE INFOCOM, IEEE Transactions on Wireless Communications, IEEE Transactions on Mobile Computing, IEEE Transactions on Communications, IEEE Wireless Communications Letters, IEEE Wireless Communications Magazine, IEEE Transactions on Network and Service Management, IEEE Sensors Journal, IEEE Transactions on Vehicular Technology, IEEE Open Journal of the Communications Society, IEEE Access, IET Communications.
+* Reviewer for IEEE/ACM Transactions on Networking, IEEE Journal on Selected Areas in Communications, IEEE INFOCOM, IEEE Transactions on Wireless Communications, IEEE Transactions on Mobile Computing, IEEE Transactions on Communications, IEEE Wireless Communications Letters, IEEE Wireless Communications Magazine, IEEE Transactions on Network and Service Management, IEEE Sensors Journal, IEEE Transactions on Vehicular Technology, IEEE Open Journal of the Communications Society, IEEE Access, IET Communications.
 
 Scientific Acknowledgments and Awards
 ======
