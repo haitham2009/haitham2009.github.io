@@ -49,6 +49,7 @@ Service and leadership
 Scientific Acknowledgments and Awards
 ======
 * Outstanding Teaching Assistant Award, Electrical and Computer Engineering Department, University of Massachusetts Amherst, USA 2024–2025.
+* Accepted Proposal — Haitham Abdelhafez, IEEE GLOBECOM 2025, ComSoc Research Collaboration Pitch Session.
 * Full tuition Graduate Research Assistantship at the University of Massachusetts, Amherst, USA, 2020-Present.
 * Full tuition Graduate Teaching Assistantship at Helwan University, Egypt.
 * Honors (The Second) in B.Sc., Helwan University, Egypt.
