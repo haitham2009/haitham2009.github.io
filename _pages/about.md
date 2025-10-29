@@ -18,6 +18,7 @@ redirect_from:
 - I serve on the Technical Program Committee of the [ACM S³ Workshop 2025](https://s3.witechlab.com/#), co-located with ACM MobiCom 2025. I am a member of the [EURASIP Academy](https://academy.eurasip.org/academy-members) from 2024 to present. I also serve as a reviewer for the IEEE/ACM Transactions on Networking, IEEE Journal on Selected Areas in Communications, IEEE INFOCOM, IEEE Transactions on Wireless Communications, IEEE Transactions on Mobile Computing, IEEE Transactions on Communications, IEEE Wireless Communications Letters, IEEE Wireless Communications Magazine, IEEE Transactions on Network and Service Management, IEEE Sensors Journal, IEEE Transactions on Vehicular Technology, IEEE Open Journal of the Communications Society, IEEE Access, and IET Communications.
 
 - Accepted Proposal — Haitham Abdelhafez, IEEE GLOBECOM 2025, ComSoc Research Collaboration Pitch Session.
+- Accepted — Haitham H. Esmat "Performance Evaluation of Network Slicing in Multi-Domain, Multi-Technology Wireless Networks" in SIGMETRICS, December issue of ACM Performance Evaluation Review 2025.
 
 ## 🤝 I am open to collaborating  
 Feel free to connect!
