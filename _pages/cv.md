@@ -48,7 +48,7 @@ Service and leadership
 
 Scientific Acknowledgments and Awards
 ======
-*Selected as a finalist for the 2025–26 UMass Amherst Distinguished Teaching Award, recognizing exceptional teaching and student impact.
+* Selected as a finalist for the 2025–26 UMass Amherst Distinguished Teaching Award, recognizing exceptional teaching and student impact.
 * Outstanding Teaching Assistant Award, Electrical and Computer Engineering Department, University of Massachusetts Amherst, USA 2024–2025.
 * Accepted Proposal — Haitham Abdelhafez, IEEE GLOBECOM 2025, ComSoc Research Collaboration Pitch Session.
 * Full tuition Graduate Research Assistantship at the University of Massachusetts, Amherst, USA, 2020-Present.
