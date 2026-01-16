@@ -48,9 +48,11 @@ Service and leadership
 
 Scientific Acknowledgments and Awards
 ======
+* EURASIP Academy Travel Grant, EUSIPCO 2026, €1,250 (approved).
 * Selected as a finalist for the 2025–26 UMass Amherst Distinguished Teaching Award, recognizing exceptional teaching and student impact.
 * Outstanding Teaching Assistant Award, Electrical and Computer Engineering Department, University of Massachusetts Amherst, USA 2024–2025.
 * Accepted Proposal — Haitham Abdelhafez, IEEE GLOBECOM 2025, ComSoc Research Collaboration Pitch Session.
+* EURASIP Academy Travel Grant, EUSIPCO 2025, €1,250 (approved).
 * Full tuition Graduate Research Assistantship at the University of Massachusetts, Amherst, USA, 2020-Present.
 * Full tuition Graduate Teaching Assistantship at Helwan University, Egypt.
 * Honors (The Second) in B.Sc., Helwan University, Egypt.
