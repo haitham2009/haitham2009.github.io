@@ -9,7 +9,7 @@ redirect_from:
 
 - I am currently a Postdoctoral Research Associate at the Institute for Advanced Computing, Virginia Tech, Alexandria, Virginia, USA.
 
-- I received my Ph.D. in [Electrical and Computer Engineering from the University of Massachusetts Amherst](https://www.umass.edu/engineering/electrical-and-computer-engineering) in February 2026.
+- I received my Ph.D. in [Electrical and Computer Engineering from the University of Massachusetts Amherst](https://www.umass.edu/engineering/electrical-and-computer-engineering) in February 2026, with my dissertation titled “[AI-Driven Network Slicing in Multi-Domain Multi-Technology Wireless Networks](https://scholarworks.umass.edu/entities/publication/dda2a74f-d9ee-45b7-8755-25b9bf7d8340)” .
 
 - During my Ph.D. studies, I was a member of the  [Network Science lab](https://websites.umass.edu/blorenzo/research/) and worked as a Research Assistant on projects funded by the U.S. National Science Foundation (NSF) (CNS-2008309 and CNS-2225427), the U.S. Army Research Laboratory (ARL) FREEDOM program (Covert Communication and Advanced Sensing in Contested Electromagnetic Environments), and a Juniper Networks collaboration focused on investigating next-generation resilient wireless networks leveraging AI/ML for proactive anomaly detection and self-healing systems.
 
