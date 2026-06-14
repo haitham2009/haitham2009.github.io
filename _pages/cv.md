@@ -23,7 +23,7 @@ Publications
 
 Posters
 ======
-*Haitham Abdelhafez, “Real-Time Distributed Inference in UAV–LEO ISAC Networks Using Reservoir Computing" RISE-IoT VT workshop, April 2026.
+* Haitham Abdelhafez, “Real-Time Distributed Inference in UAV–LEO ISAC Networks Using Reservoir Computing" RISE-IoT VT workshop, April 2026.
 * Haitham Abdelhafez, “A Network Design Framework for Classical-to-Quantum Evolution" 2025 IEEE International Conference on Quantum Computing and Engineering (QCE), Albuquerque Convention Center in Albuquerque, New Mexico, USA, 2025.
 * Haitham Abdelhafez, “LEONS: Multi-Domain Network Slicing Configuration and Orchestration for Satellite-Terrestrial Edge Computing Networks”, 2023 UMass ECE Department Graduate Research Poster Session \& 3-Minute Thesis.
 * Haitham Abdelhafez, “Cross-Technology Federated Matching for Age of Information Minimization in Heterogeneous IoT”, 2023 NSF PI Meeting of the Computer Systems Research (CSR) Program in Durham, North Carolina.
