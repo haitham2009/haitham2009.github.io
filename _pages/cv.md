@@ -43,17 +43,22 @@ Teaching
   
 Service and leadership
 ======
+* Session Chair, IEEE Vehicular Technology Conference (VTC) 2026 Fall, Boston, MA, USA, September 2026. Session: “ML: Learning for Satellite, Aerial, and Robust Nets.”
+* Organizing Committee Member, NSF Workshop: US Advancing Leadership in Global Networking Standards (US-ALIGNS) 2026.
+* Solo organizing BRICCS seminar series for around 45 researchers (PhD students and postdocs).
 * Technical Program Committee Member, [ACM S<sup>3</sup> Workshop 2025](https://s3.witechlab.com/#), co-located with ACM MobiCom, November 2025, Hong Kong, China.
 * Member, [EURASIP Academy](https://academy.eurasip.org/academy-members/) (2024 – Present)
 * Reviewer for IEEE/ACM Transactions on Networking, IEEE Journal on Selected Areas in Communications, IEEE INFOCOM, IEEE Transactions on Wireless Communications, IEEE Transactions on Mobile Computing, IEEE Transactions on Communications, IEEE Wireless Communications Letters, IEEE Wireless Communications Magazine, IEEE Transactions on Network and Service Management, IEEE Sensors Journal, IEEE Transactions on Vehicular Technology, IEEE Open Journal of the Communications Society, IEEE Access, IET Communications.
 
 Scientific Acknowledgments and Awards
 ======
-* EURASIP Academy Travel Grant, EUSIPCO 2026, €1,250 (approved).
+* Postdoc Travel Award, Virginia Tech Office of Research and Innovation, 2026.
+* EURASIP Academy Travel Grant, EUSIPCO 2026, €1,250.
 * Selected as a finalist for the 2025–26 UMass Amherst Distinguished Teaching Award, recognizing exceptional teaching and student impact.
+* Recipient of the EURASIP Academy Certificate of Recognition (2025), awarded in acknowledgment of achievements and contributions to the EURASIP Academy.
 * Outstanding Teaching Assistant Award, Electrical and Computer Engineering Department, University of Massachusetts Amherst, USA 2024–2025.
 * Accepted Proposal — Haitham Abdelhafez, IEEE GLOBECOM 2025, ComSoc Research Collaboration Pitch Session.
-* EURASIP Academy Travel Grant, EUSIPCO 2025, €1,250 (approved).
+* EURASIP Academy Travel Grant, EUSIPCO 2025, €1,250.
 * Full tuition Graduate Research Assistantship at the University of Massachusetts, Amherst, USA, 2020-2026.
 * Full tuition Graduate Teaching Assistantship at Helwan University, Egypt.
 * Honors (The Second) in B.Sc., Helwan University, Egypt.
